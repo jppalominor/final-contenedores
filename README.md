@@ -3,7 +3,7 @@
 Trabajo final telematica con contenedores:
 
 Primero se debe clonar el repositorio de la siguiente manera:
- git clone 
+ git clone https://github.com/jppalominor/final-contenedores.git
  
  Para lanzar el contenedor se ejecuta: sudo docker build -t trabajofinal:01
  
